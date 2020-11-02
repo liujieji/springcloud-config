@@ -4,8 +4,8 @@ config:
 rabbitmq:
   host: 192.168.192.128
   port: 5672
-  username: admin
-  password: admin
+  username: guest
+  password: guest
   
 management:
   health:
