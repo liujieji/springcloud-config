@@ -1,8 +1,2 @@
 config:
   info: this is config-dev.yml version = 5
-
-rabbitmq:
-  host: 192.168.192.128
-  port: 5672
-  username: admin
-  password: admin
